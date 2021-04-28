@@ -14,9 +14,9 @@ Unleash the Power of Excel to Analyse Your Data. Import, visualize, and analyze 
 + Big Data
 
 # 3 Courses in this Specialization
-### Excel Fundamentals for Data Analysis
-### Data Visualization in Excel
-### Excel Power Tools for Data Analysis
+- ## Excel Fundamentals for Data Analysis
+- ## Data Visualization in Excel
+- ## Excel Power Tools for Data Analysis
 
 # About this Specialization
 As data becomes the modern currency, so the ability to quickly and accurately analyse data has become of paramount importance. Therefore, data analytics and visualization are two of the most sought after skills for high paying jobs with strong future growth prospects. According to an IBM report, the Excel tools for data analytics and visualization are among the top 10 competencies projected to show double-digit growth in their demand. This course will help you develop your analytical and visualization skills so that you not only improve your current work performance but also expand your future job prospects.
